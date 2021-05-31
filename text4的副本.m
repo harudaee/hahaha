@@ -1,4 +1,4 @@
-%%¾­µä·½·¨µÄLCR
+%%ï¿½ï¿½ï¿½ä·½ï¿½ï¿½ï¿½ï¿½LCR
 clc;
 clear;
 x=zeros(1,40);
@@ -26,5 +26,6 @@ axis([-30 10 0.001 10]);
 % plot(x,y,colors(1,j));
 %  axis normal;
 
+z = 1;
 hold on
 end
